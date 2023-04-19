@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 
 MAINTAINER anshuman.bhartiya@gmail.com
 
