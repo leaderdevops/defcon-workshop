@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.10
 
 MAINTAINER anshuman.bhartiya@gmail.com
 
